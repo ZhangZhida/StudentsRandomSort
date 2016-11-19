@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2012\Projects\StudentsRandomSort\StudentsRandomSort\bin\Debug\StudentsRandomSort.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\StudentsRandomSort\StudentsRandomSort\bin\Debug\StudentsRandomSort.exe
+c:\users\administrator\documents\visual studio 2012\Projects\StudentsRandomSort\StudentsRandomSort\bin\Debug\StudentsRandomSort.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\StudentsRandomSort\StudentsRandomSort\obj\Debug\StudentsRandomSort.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\StudentsRandomSort\StudentsRandomSort\obj\Debug\StudentsRandomSort.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\StudentsRandomSort\StudentsRandomSort\obj\Debug\StudentsRandomSort.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\StudentsRandomSort\StudentsRandomSort\obj\Debug\StudentsRandomSort.exe
+c:\users\administrator\documents\visual studio 2012\Projects\StudentsRandomSort\StudentsRandomSort\obj\Debug\StudentsRandomSort.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\StudentsRandomSort\StudentsRandomSort\obj\Debug\StudentsRandomSort.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentsRandomSort\StudentsRandomSort\obj\Debug\StudentsRandomSort.FormSettings.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentsRandomSort\StudentsRandomSort\obj\Debug\StudentsRandomSort.NewGroupWithOldMembersCount.resources
